@@ -1,7 +1,7 @@
 # SOC-Automation-LAB
 
 # Objective
-The SOC Automation Lab project was a pivotal element in my cybersecurity education. My main aim was to leverage this platform to develop practical skills in the automation of security operations. The hands-on experience gained from orchestrating the interplay between different security tools not only enriched my technical knowledge but also enhanced my ability to employ automation to expedite threat detection and response. This initiative has been integral in reinforcing my understanding of the security operations framework and in developing my competencies as a security analyst.
+The SOC Automation Lab project played a crucial role in my cybersecurity education, providing a hands-on platform to develop practical skills in automating security operations. My primary objective was to integrate and orchestrate various security tools to streamline threat detection and response. This experience not only deepened my technical expertise but also strengthened my ability to leverage automation for more efficient security operations. Ultimately, this initiative reinforced my understanding of the security operations framework and enhanced my capabilities as a security analyst.
 
 # Skills Learned
 - Enhanced skills in detecting network abnormalities and executing prompt and effective response mechanisms to mitigate threats.
